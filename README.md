@@ -1,6 +1,6 @@
 # Zenodo Dataset Downloader
 
-A robust Python script to download datasets from Zenodo with support for breakpoint resumption (resume capability), automatic retries, and file filtering.
+A robust Python script to download datasets from [Zenodo](https://zenodo.org/) with support for breakpoint resumption (resume capability), automatic retries, and file filtering.
 
 ## Features
 
